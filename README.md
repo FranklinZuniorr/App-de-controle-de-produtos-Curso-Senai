@@ -4,3 +4,6 @@ Descrição: A ideia do App é possibilitar a visualização de todos os produto
 Status do projeto: Em desenvolvimento, versão 0.1 disponível.
 Acesso ao projeto: Público.
 Tecnologias utilizadas: Html e Js.
+
+
+![controlar-validade-produtos](https://user-images.githubusercontent.com/94902906/180917003-2a288574-3a14-435a-9d14-ffea3e036e48.png)
