@@ -5,5 +5,4 @@ Status do projeto: Em desenvolvimento, versão 0.1 disponível.
 Acesso ao projeto: Público.
 Tecnologias utilizadas: Html e Js.
 
-
-![controlar-validade-produtos](https://user-images.githubusercontent.com/94902906/180917003-2a288574-3a14-435a-9d14-ffea3e036e48.png)
+![WhatsApp Image 2022-07-26 at 07 21 28](https://user-images.githubusercontent.com/94902906/180983881-83f14e78-acb3-4ba3-9d58-52dd46a79451.jpeg)
