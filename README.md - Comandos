@@ -7,3 +7,6 @@ git add .
 git status
 git banch -a
 git push -u origin
+git remote add origin 
+
+Comandos: https://gist.github.com/leocomelli/2545add34e4fec21ec16
