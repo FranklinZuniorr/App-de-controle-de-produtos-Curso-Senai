@@ -1,4 +1,4 @@
-Principais comandos utilizados para gerenciar o versionamento de código:
+Principais comandos utilizados para gerenciar o versionamento de código no repositório remoto:
 
 git banch checkout
 git commit -m
