@@ -1,6 +1,8 @@
 echo off
 
 git init
+git config --global user.email Johndoe@gmail.com
+git config --global user.name "John Doe"
 git branch -m master main
 git branch -m main Main
 git add .
