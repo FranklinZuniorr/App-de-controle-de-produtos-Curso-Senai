@@ -1,2 +1,2 @@
-# Protótipo V0.1
+# Protótipo V_0.1
 Primeiro lançamento do App.
