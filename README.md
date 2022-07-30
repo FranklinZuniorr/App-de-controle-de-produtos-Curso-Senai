@@ -1,2 +1,3 @@
 # Aba produtos vendidos
-Desenvolvimento da aba produtos vendidos, pv.html 
+- Desenvolvimento da aba produtos vendidos, pv.html
+- Resposável: John Doe.
